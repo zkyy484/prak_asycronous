@@ -34,6 +34,32 @@ class FuturePage extends StatefulWidget {
 }
 
 class _FuturePageState extends State<FuturePage> {
+  void returnFG() {
+    final futures = Future.wait<int>([
+      returnOneAsync(),
+      returnTwoAsync(),
+      returnThreeAsync(),
+    ]);
+
+    // FutureGroup<int> futureGroup = FutureGroup<int>();
+    // futureGroup.add(returnOneAsync());
+    // futureGroup.add(returnTwoAsync());
+    // futureGroup.add(returnThreeAsync());
+    // futureGroup.close();
+    // futureGroup.future.then((List <int> value) {
+    //   int total = 0;
+    //   for (var element in value) {
+    //     total += element;
+    //   }
+    //   setState(() {
+    //     result = total.toString();
+    //   });
+    // });
+  }
+
+
+
+
   late Completer completer;
 
   Future getNumber() {
@@ -100,18 +126,21 @@ class _FuturePageState extends State<FuturePage> {
             ElevatedButton(
               child: const Text('GO!'),
               onPressed: () {
-                getNumber().then((value) {
-                  setState(() {
-                    result = value.toString();
-                  });
-                }).catchError((e) {
-                  result = 'An error occured';
-                });
+                returnFG();
+                // Praktikum 3
+                // getNumber().then((value) {
+                //   setState(() {
+                //     result = value.toString();
+                //   });
+                // }).catchError((e) {
+                //   result = 'An error occured';
+                // });
 
-
+                // Praktikum 2
                 // count();
 
 
+                // Praktikum 1
                 // setState(() {});
                 // getData()
                 // .then((value) {
