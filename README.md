@@ -9,5 +9,19 @@
 
 **B. PRAKTIKUM 2**
 
+**C. PRAKTIKUM 3**
+
+**D. PRAKTIKUM 4**
+
+**E. PRAKTIKUM 5**
+
+**F. PRAKTIKUM 6**
+
+**G. PRAKTIKUM 7**
+
+**H. PRAKTIKUM 8**
+
+**I. PRAKTIKUM 9**
+
 
     
