@@ -1,16 +1,15 @@
-# praktikum_acronyus
+**NAMA : MOCH. DZAKY MUSYADDAD**
+-
+**NIM : 362358302011**
+-
+**KELAS : 2A TRPL**
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**1. Praktikum 1**
+**2. Praktikum 2**
+**3. Praktikum 3**
+**4. Praktikum 4**
+**5. Praktikum 5**
+**6. Praktikum 6**
+**7. Praktikum 7**
+**8. Praktikum 8**
+**9. Praktikum 9**
