@@ -3,6 +3,7 @@ import 'package:http/http.dart';
 import 'package:http/http.dart' as http;
 import 'dart:async';
 import 'package:async/async.dart';
+import 'package:praktikum_acronyus/geolocation.dart';
 
 
 void main() {
@@ -21,7 +22,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const FuturePage(),
+      home: LocationScreen(),
+      // home: const FuturePage(),
     );
   }
 }
