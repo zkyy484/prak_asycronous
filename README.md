@@ -47,11 +47,22 @@
      ![WhatsApp Image 2024-11-25 at 09 57 53_fdefacdd](https://github.com/user-attachments/assets/fb3d0ece-9cc6-4c32-9446-8dadbc77f156)
      ![WhatsApp Image 2024-11-25 at 09 58 20_6de20014](https://github.com/user-attachments/assets/989bb297-a26d-46ee-8acd-2050557c914e)
 
+   - Panggil method handleError() tersebut di ElevatedButton, lalu run. Apa hasilnya? Jelaskan perbedaan kode langkah 1 dan 4!
+     ![WhatsApp Image 2024-11-25 at 10 03 54_d0a09e12](https://github.com/user-attachments/assets/afaee93b-02b4-4f05-a9f0-c1347e2788b0)
+
+
 
           
 
 
 **F. PRAKTIKUM 6**
+1. Soal
+   - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+   - Jika Anda tidak melihat animasi loading tampil, kemungkinan itu berjalan sangat cepat. Tambahkan delay pada method getPosition() dengan kode await Future.delayed(const Duration(seconds: 3));
+   - Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian?
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 12".
+     ![WhatsApp Image 2024-11-25 at 10 26 22_7a5d50b7](https://github.com/user-attachments/assets/1c2a36f6-e11d-441c-9a29-92e1edc6fa9b)
+
 
 **G. PRAKTIKUM 7**
 
