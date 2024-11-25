@@ -5,9 +5,9 @@
 **KELAS : 2A TRPL**
 -
 
-**A. Praktikum 1**
+**A. PRAKTIKUM 1**
 
-**B. Praktikum 2**
+**B. PRAKTIKUM 2**
 
 
     
