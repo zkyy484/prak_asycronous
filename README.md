@@ -44,6 +44,10 @@
 **E. PRAKTIKUM 5**
 1. Soal
    - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 9".
+     ![WhatsApp Image 2024-11-25 at 09 57 53_fdefacdd](https://github.com/user-attachments/assets/fb3d0ece-9cc6-4c32-9446-8dadbc77f156)
+     ![WhatsApp Image 2024-11-25 at 09 58 20_6de20014](https://github.com/user-attachments/assets/989bb297-a26d-46ee-8acd-2050557c914e)
+
+
           
 
 
