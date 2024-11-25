@@ -19,12 +19,33 @@
  
 
 **B. PRAKTIKUM 2**
+1. Soal
+   - Jelaskan maksud kode langkah 1 dan 2 tersebut!
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 4".
+     ![WhatsApp Image 2024-11-25 at 09 13 40_cc78ee4e](https://github.com/user-attachments/assets/67f4ae4b-a225-4806-976d-12fe7095a356)
+
 
 **C. PRAKTIKUM 3**
+1. Soal
+   - Jelaskan maksud kode langkah 2 tersebut!
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 5".
+     ![WhatsApp Image 2024-11-25 at 09 18 40_bbf564a3](https://github.com/user-attachments/assets/335e6088-0d0c-4d80-89bd-c05275a6a152)
+   - Jelaskan maksud perbedaan kode langkah 2 dengan langkah 5-6 tersebut!
+
 
 **D. PRAKTIKUM 4**
+1. Soal
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 7".
+     ![WhatsApp Image 2024-11-25 at 09 31 52_d5c5c405](https://github.com/user-attachments/assets/c300d88e-61ed-4b85-be65-5936ab1e4b7a)
+   - Jelaskan maksud perbedaan kode langkah 1 dan 4!
+
+
 
 **E. PRAKTIKUM 5**
+1. Soal
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 9".
+          
+
 
 **F. PRAKTIKUM 6**
 
