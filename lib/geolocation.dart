@@ -17,9 +17,12 @@ class _LocationScreenState extends State<LocationScreen> {
   @override
   void initState() {
     super.initState();
+
+    // Praktikum 7
     position = getPosition();
 
 
+    // Praktikum 6
     // getPosition().then((Position myPos) {
     //   myPosition = 'Latitude: ${myPos.latitude.toString()} - Longitude: ${myPos.latitude.toString()}';
     //   setState(() {
