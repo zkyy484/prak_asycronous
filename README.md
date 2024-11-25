@@ -7,6 +7,8 @@
 
 A. Praktikum 1
 
+B. Praktikum 2
+
 2. Praktikum 2
 3. Praktikum 3
 4. Praktikum 4
