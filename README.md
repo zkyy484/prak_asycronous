@@ -65,10 +65,38 @@
 
 
 **G. PRAKTIKUM 7**
+1. Soal
+   - Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 13".
+     ![WhatsApp Image 2024-11-25 at 10 26 22_7278e970](https://github.com/user-attachments/assets/855a841a-1c25-42c1-9cde-514b55df6964)
+
+   - Seperti yang Anda lihat, menggunakan FutureBuilder lebih efisien, clean, dan reactive dengan Future bersama UI.
+   - Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian?
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 14".
+     ![WhatsApp Image 2024-11-25 at 11 22 22_96ca0631](https://github.com/user-attachments/assets/00bb07bf-7fa9-4e29-8d69-6d157ba016bb)
+
 
 **H. PRAKTIKUM 8**
+1. Soal
+   - Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+   - Silakan ganti dengan warna tema favorit Anda.
+   - Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+   - Gantilah 3 warna pada langkah 5 dengan warna favorit Anda!
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 16".
+     ![WhatsApp Image 2024-11-25 at 13 04 58_62f9f4e2](https://github.com/user-attachments/assets/1191d548-3825-41d3-bf34-e7790f9bdada)
+     ![WhatsApp Image 2024-11-25 at 13 05 54_6314a1f5](https://github.com/user-attachments/assets/db04b9dd-0e9b-48e1-a6df-76d2d648a46e)
+
+
 
 **I. PRAKTIKUM 9**
+1. Soal
+   - Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+   - Gantilah 3 warna pada langkah 3 dengan warna favorit Anda!
+   - Capture hasil praktikum Anda berupa GIF dan lampirkan di README. Lalu lakukan commit dengan pesan "W11: Soal 17"
+     ![WhatsApp Image 2024-11-25 at 13 20 52_a0d31f39](https://github.com/user-attachments/assets/15b0c69a-2dff-4751-8fa1-891e06c78bff)
+     ![WhatsApp Image 2024-11-25 at 13 21 08_797e3328](https://github.com/user-attachments/assets/5285ab29-06b2-4e5d-8524-0a0315cac115)
+
+
 
 
     
